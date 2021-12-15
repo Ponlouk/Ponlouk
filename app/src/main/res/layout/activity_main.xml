@@ -86,7 +86,7 @@
         android:id="@+id/ClearButton"
         android:layout_width="160dp"
         android:layout_height="70dp"
-        android:background="@color/purple_700"
+        android:background="@android:color/holo_blue_bright"
         android:onClick="clear"
         android:text="ClearButton"
         android:textColor="@android:color/black"
